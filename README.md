@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/doubleshot) (folder `doubleshot/`, full history preserved). Archived 2026-10-04.
+
 # DoubleShot
 
 > **When the retry works. Twice.**
